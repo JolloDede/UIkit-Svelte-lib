@@ -61,6 +61,7 @@
   "types": "./dist/index.d.ts",
   "type": "module",
   "dependencies": {
+    "svelte2tsx": "^0.6.25",
     "uikit": "^3.17.6"
   }
 }
